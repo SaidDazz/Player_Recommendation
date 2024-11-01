@@ -1,4 +1,4 @@
-# Player Scouting Recommendation System
+# Football Player Recommendation Engine
 
 ## Overview
 The **Player Scouting Recommendation System** helps users identify football players with similar playing styles based on key statistical metrics. By entering a player's name, the system returns a list of the top 10 most similar players, utilizing cosine similarity for precise matches. Powered by **Apache Solr** for data storage and **Streamlit** for a user-friendly interface, this tool is designed for analysts, scouts, and football enthusiasts.
