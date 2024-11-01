@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+scikit-learn
+numpy
+SolrClient
+plotly
+bing_image_urls
+streamlit_searchbox
